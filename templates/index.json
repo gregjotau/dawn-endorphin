@@ -41,7 +41,7 @@
     "16463038447a5cbd60": {
       "type": "featured-collection",
       "settings": {
-        "title": "Lagersalg ut Mars - Vi flytter lager til nytt og større lager",
+        "title": "Kjøp sokker",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -64,13 +64,14 @@
         "padding_bottom": 36
       }
     },
-    "16311853465cfb015e": {
+    "164138293938171117": {
       "type": "image-banner",
       "settings": {
-        "image_url": "shopify:\/\/collections\/loungewear",
+        "image": "shopify:\/\/shop_images\/endorphin-banner-desktop-1.jpg",
+        "image_url": "shopify:\/\/collections\/new-releases",
         "image_overlay_opacity": 0,
         "image2_url": "",
-        "image_height": "large",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -81,14 +82,50 @@
         "show_text_below": true
       }
     },
-    "164138293938171117": {
+    "1648212679a7ff31c4": {
+      "type": "rich-text",
+      "blocks": {
+        "1648212679e9b6ef4c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1648212679e9b6ef4c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1648212679e9b6ef4c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1648212679e9b6ef4c-0",
+        "1648212679e9b6ef4c-1",
+        "1648212679e9b6ef4c-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16311853465cfb015e": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/endorphin-banner-desktop-1.jpg",
-        "image_url": "shopify:\/\/collections\/new-releases",
+        "image_url": "shopify:\/\/collections\/loungewear",
         "image_overlay_opacity": 0,
         "image2_url": "",
-        "image_height": "small",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -195,8 +232,9 @@
     "1647875727c189611d",
     "1638543882705deea9",
     "16463038447a5cbd60",
-    "16311853465cfb015e",
     "164138293938171117",
+    "1648212679a7ff31c4",
+    "16311853465cfb015e",
     "16467164645aa70328",
     "1629157352b193f90f"
   ]
