@@ -79,7 +79,7 @@
             "type": "text",
             "settings": {
               "heading": "Firma-informasjon",
-              "subtext": "<p>Famme AS<\/p><p>Rosenbergveien 15<\/p><p>0963 Oslo<\/p><p><\/p><p><\/p>"
+              "subtext": "<p>Famme AS<\/p><p>Rosenbergveien 15<\/p><p>0963 Oslo<\/p><p>Post@endorphin.no<\/p>"
             }
           }
         },
