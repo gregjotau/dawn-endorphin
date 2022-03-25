@@ -22,10 +22,12 @@
     "1638543882705deea9": {
       "type": "image-banner",
       "settings": {
-        "image_url": "shopify:\/\/collections\/must-haves",
+        "image": "shopify:\/\/shop_images\/endorphin-tekst-banner-dekstop1.jpg",
+        "image_m": "shopify:\/\/shop_images\/endorphin-tekst-banner-mobil1.jpg",
+        "image_url": "shopify:\/\/products\/endorphin-rx1-shoes",
         "image_overlay_opacity": 0,
         "image2_url": "",
-        "image_height": "small",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
