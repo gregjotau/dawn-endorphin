@@ -12,11 +12,12 @@
     "page_width": 1400,
     "spacing_sections": 8,
     "sale_badge_color_scheme": "accent-2",
-    "social_facebook_link": "https:\/\/www.facebook.com\/fammesportswear",
-    "social_pinterest_link": "https:\/\/no.pinterest.com\/fammesportswear\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/famme\/",
-    "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/fammesportswear",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UC_Sf81gixIsLXiqrSFnkYPA",
+    "accent_icons": "text",
+    "social_facebook_link": "",
+    "social_pinterest_link": "",
+    "social_instagram_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
     "favicon": "shopify:\/\/shop_images\/Favicon-endorphin.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/famme-logo.png",
     "checkout_logo_position": "left",
@@ -68,25 +69,17 @@
               "menu": "footer"
             }
           },
-          "5a66bb68-925b-4a72-9b02-048703aea76a": {
-            "type": "link_list",
+          "411607c1-e8a1-478a-bfc8-e58e7193a30d": {
+            "type": "text",
             "settings": {
-              "heading": "Produktinformasjon",
-              "menu": ""
-            }
-          },
-          "3e063503-3f13-4266-942b-f40c646c2175": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Samarbeid",
-              "menu": ""
+              "heading": "Firma-informasjon",
+              "subtext": "<p>Famme AS<\/p><p>Rosenbergveien 15<\/p><p>0963 Oslo<\/p><p>Post@endorphin.no<\/p>"
             }
           }
         },
         "block_order": [
           "3b667cc8-80d2-4c77-85d0-d198aff09291",
-          "5a66bb68-925b-4a72-9b02-048703aea76a",
-          "3e063503-3f13-4266-942b-f40c646c2175"
+          "411607c1-e8a1-478a-bfc8-e58e7193a30d"
         ],
         "settings": {
           "color_scheme": "inverse",
