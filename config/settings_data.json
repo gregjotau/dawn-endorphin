@@ -1,12 +1,12 @@
 {
   "current": {
-    "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#119da4",
-    "colors_accent_2": "#ffaa91",
-    "colors_text": "#4e4e4e",
-    "colors_outline_button_labels": "#4e4e4e",
-    "colors_background_1": "#ffffff",
-    "colors_background_2": "#fafafa",
+    "colors_solid_button_labels": "#f7f5f2",
+    "colors_accent_1": "#007695",
+    "colors_accent_2": "#ea4928",
+    "colors_text": "#383838",
+    "colors_outline_button_labels": "#383838",
+    "colors_background_1": "#f7f5f2",
+    "colors_background_2": "#ffffff",
     "type_header_font": "roboto_n4",
     "type_body_font": "roboto_n4",
     "page_width": 1400,
@@ -48,12 +48,13 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/famme-logo.png",
-          "logo_width": 120,
+          "logo": "shopify:\/\/shop_images\/Logo-endorphin.png",
+          "logo_width": 230,
           "logo_position": "middle-left",
-          "menu": "long-horizontal-menu",
-          "show_line_separator": true,
-          "enable_sticky_header": true,
+          "menu": "main-menu",
+          "menu_type_desktop": "dropdown",
+          "show_line_separator": false,
+          "enable_sticky_header": false,
           "margin_bottom": 0
         }
       },
@@ -71,14 +72,14 @@
             "type": "link_list",
             "settings": {
               "heading": "Produktinformasjon",
-              "menu": "product-development"
+              "menu": ""
             }
           },
           "3e063503-3f13-4266-942b-f40c646c2175": {
             "type": "link_list",
             "settings": {
               "heading": "Samarbeid",
-              "menu": "partnerships"
+              "menu": ""
             }
           }
         },
@@ -103,15 +104,6 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "733389323033596483": {
-        "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/theme-settings\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
-        "disabled": true,
-        "settings": {
-          "show_preview_data": false
-        }
-      }
-    }
+    ]
   }
 }
