@@ -68,13 +68,6 @@
               "menu": "footer"
             }
           },
-          "3e063503-3f13-4266-942b-f40c646c2175": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Samarbeid",
-              "menu": "footer-samarbeid"
-            }
-          },
           "411607c1-e8a1-478a-bfc8-e58e7193a30d": {
             "type": "text",
             "settings": {
@@ -85,7 +78,6 @@
         },
         "block_order": [
           "3b667cc8-80d2-4c77-85d0-d198aff09291",
-          "3e063503-3f13-4266-942b-f40c646c2175",
           "411607c1-e8a1-478a-bfc8-e58e7193a30d"
         ],
         "settings": {
