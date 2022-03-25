@@ -68,13 +68,6 @@
               "menu": "footer"
             }
           },
-          "5a66bb68-925b-4a72-9b02-048703aea76a": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Firma-informasjon",
-              "menu": "footer-om-firma"
-            }
-          },
           "3e063503-3f13-4266-942b-f40c646c2175": {
             "type": "link_list",
             "settings": {
@@ -86,13 +79,12 @@
             "type": "text",
             "settings": {
               "heading": "Firma-informasjon",
-              "subtext": "<p>Famme AS<\/p><p><\/p>"
+              "subtext": "<p>Famme AS<\/p><p>Rosenbergveien 15<\/p><p>0963 Oslo<\/p><p><\/p><p><\/p>"
             }
           }
         },
         "block_order": [
           "3b667cc8-80d2-4c77-85d0-d198aff09291",
-          "5a66bb68-925b-4a72-9b02-048703aea76a",
           "3e063503-3f13-4266-942b-f40c646c2175",
           "411607c1-e8a1-478a-bfc8-e58e7193a30d"
         ],
