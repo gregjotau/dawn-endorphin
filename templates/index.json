@@ -27,7 +27,7 @@
         "image_url": "shopify:\/\/collections\/new-releases",
         "image_overlay_opacity": 0,
         "image2_url": "",
-        "image_height": "small",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
