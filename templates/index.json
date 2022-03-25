@@ -2,27 +2,13 @@
   "sections": {
     "1647875727c189611d": {
       "type": "image-banner",
-      "blocks": {
-        "4c2a89fe-78f8-4f33-8127-0ec89c9609fb": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "shopify:\/\/collections\/frontpage",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "4c2a89fe-78f8-4f33-8127-0ec89c9609fb"
-      ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Banner-endorphin-desktop.jpg",
+        "image_m": "shopify:\/\/shop_images\/Banner-endorphin-mobil.jpg",
         "image_url": "shopify:\/\/collections\/must-haves",
         "image_overlay_opacity": 0,
         "image2_url": "",
-        "image_height": "small",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
