@@ -19,29 +19,11 @@
         "show_text_below": true
       }
     },
-    "1638543882705deea9": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/endorphin-tekst-banner-dekstop1.jpg",
-        "image_m": "shopify:\/\/shop_images\/endorphin-tekst-banner-mobil1.jpg",
-        "image_url": "shopify:\/\/products\/endorphin-rx1-shoes",
-        "image_overlay_opacity": 0,
-        "image2_url": "",
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "164138293938171117": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/endorphin-banner-desktop-1.jpg",
+        "image": "shopify:\/\/shop_images\/banner-endorphin-tekst-desktop.jpg",
+        "image_m": "shopify:\/\/shop_images\/banner-endorphin-tekst-mobil.jpg",
         "image_url": "shopify:\/\/collections\/new-releases",
         "image_overlay_opacity": 0,
         "image2_url": "",
@@ -63,13 +45,13 @@
           "type": "heading",
           "settings": {
             "heading": "Om Endorphin RX1",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "1648212679e9b6ef4c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Lette løpesko med god demping og chunky såle. Skoene kan styles og brukes som fritidssko med tights, jeans og shorts. Skoene gir god støtte og sitter komfortabelt på foten under lange løpeturer. Det takket være Ortholite innleggssåle, pustende mesh, myk støtte rundt anklene og hælen.<\/p>"
+            "text": "<p>Lette løpesko med god demping og chunky såle. Skoene kan styles og brukes som fritidssko med tights, jeans og shorts. Skoene gir god støtte og sitter komfortabelt på foten under lange løpeturer. <\/p>"
           }
         },
         "1648212679e9b6ef4c-2": {
@@ -156,7 +138,6 @@
   },
   "order": [
     "1647875727c189611d",
-    "1638543882705deea9",
     "164138293938171117",
     "1648212679a7ff31c4",
     "16463038447a5cbd60",
