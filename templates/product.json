@@ -106,12 +106,45 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "94ba9d87-f750-463f-8db4-ab8250b57353": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/review-hvite-2.jpg",
+            "title": "Kathrine Ø.",
+            "text": "<p>Elsker disse skoene! Sitter perfekt på foten og ikke minst veldig god demping. Disse bruker jeg både tim trening og hverdags. Normal i størrelsen, anbefales!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3a17a4d9-b0f9-4b82-a1c2-5f29767b772d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/review-sort-2.jpg",
+            "title": "Pauline T.",
+            "text": "<p>Dette er den perfekte treningssko \/ fritidssko 😍 jeg har akkurat fått et par i helt sort og digger dem🙌 Har allerede et par hvite som er veldig godt brukt fra i vår\/sommer og absolutt ikke hvite lenger 😂 ser at mange har vasket dem i maskin så vurderer å teste det. Til tross for at de er godt brukt er det nok myyye bruk igjen🤗 jeg bruker dem på jobb da jeg står\/går store deler av dagen, til trening og til hverdags. Kommer nok til å skaffe en i hver farge etter hvert ☺️🙌 jeg syns de er noe store i str. Jeg er vanligvis str 38 men i disse måtte jeg ha 37.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d4f18a1b-f10b-4764-bf40-fd2d334da246": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/review-hvite-3.jpg",
+            "title": "Kristine",
+            "text": "<p>At dette er de beste skoene jeg har hatt er ingen underdrivelse!🤩 Solid demping, perfekt for lange dager på jobb, joggetur, hverdags! Disse er på høyde med anerkjente hoka sko når det gjelder demping. Liker faktisk disse bedre da jeg er plattfot! De er litt brede, normal i størrelsen. Kan vaskes i maskin også 😌. Kan virkelig ikke få skryte nok av disse, ingenting negativt og si!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "16484530993c2c6d35-0",
         "16484530993c2c6d35-2",
-        "16484530993c2c6d35-1"
+        "16484530993c2c6d35-1",
+        "94ba9d87-f750-463f-8db4-ab8250b57353",
+        "3a17a4d9-b0f9-4b82-a1c2-5f29767b772d",
+        "d4f18a1b-f10b-4764-bf40-fd2d334da246"
       ],
       "settings": {
         "title": "Anmeldelser",
