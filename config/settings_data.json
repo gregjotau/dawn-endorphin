@@ -49,8 +49,8 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/Logo-endorphin.png",
-          "logo_width": 230,
+          "logo": "shopify:\/\/shop_images\/logo-endorphin-header.png",
+          "logo_width": 250,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
