@@ -92,7 +92,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Endorphin-banner-desktop-3.jpg",
         "image_m": "shopify:\/\/shop_images\/Endorphin-banner-mobil-3.jpg",
-        "image_url": "",
+        "image_url": "shopify:\/\/products\/endorphin-rx1-shoes",
         "image_overlay_opacity": 0,
         "image2_url": "",
         "image_height": "small",
