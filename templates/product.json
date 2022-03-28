@@ -74,6 +74,65 @@
         "bg": "#f5f5f5"
       }
     },
+    "164845309911679a7f": {
+      "type": "multicolumn-usp",
+      "blocks": {
+        "16484530993c2c6d35-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/review-hvit.jpg",
+            "title": "Live F.",
+            "text": "<p>Altså disse skoene er fantastiske! Veldig gode å løpe i og jeg bruker de hele dagen på jobb! Sitter utrolig godt på foten, lette og ikke minst veldig kule! :D Anbefales!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16484530993c2c6d35-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/60cda1f1-1a18-4d23-9d62-ce870049ad7f_large_b128d8ce-ed64-40d8-8290-1c3ba01ad97f.jpg",
+            "title": "Silje S.",
+            "text": "<p>Elsker disse skoene så mye at jeg måtte ha de i en farge til 🙈 De er lette som en fjær! Helt klart de beste treningsskoene jeg noengang har hatt<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16484530993c2c6d35-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/review-sorthvit.jpg",
+            "title": "Cathrine E.",
+            "text": "<p>Har disse i svart og svart\/hvite! Kommer til å kjøpe i hvit også når de kommer inn igjen!<\/p><p>Disse kan man bruke til alt, hverdag\/trening på jobb, hvor som helst. Utrolig god demping og skoen er lett! Ser kjempe fine ut i tillegg! Veldig fornøyd med disse!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16484530993c2c6d35-0",
+        "16484530993c2c6d35-2",
+        "16484530993c2c6d35-1"
+      ],
+      "settings": {
+        "title": "Anmeldelser",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_max": 228,
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "sizet": 15,
+        "size": 12,
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -94,6 +153,7 @@
   },
   "order": [
     "main",
+    "164845309911679a7f",
     "product-recommendations"
   ]
 }
