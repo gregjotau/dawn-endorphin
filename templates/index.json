@@ -38,6 +38,61 @@
         "show_text_below": true
       }
     },
+    "1648449026db85fd09": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1648449025fb1d6f6a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "1648449025fb1d6f6a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1648449025fb1d6f6a-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1648449025fb1d6f6a-0",
+        "1648449025fb1d6f6a-1",
+        "1648449025fb1d6f6a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Endorphin-rx1-banner-desktop.jpg",
+        "image_m": "shopify:\/\/shop_images\/Endorphin-rx1-banner-mobil.jpg",
+        "image_url": "",
+        "image_overlay_opacity": 0,
+        "image2_url": "",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "1648212679a7ff31c4": {
       "type": "rich-text",
       "blocks": {
@@ -139,6 +194,7 @@
   "order": [
     "1647875727c189611d",
     "164138293938171117",
+    "1648449026db85fd09",
     "1648212679a7ff31c4",
     "16463038447a5cbd60",
     "1629157352b193f90f"
