@@ -19,8 +19,77 @@
         "show_text_below": true
       }
     },
+    "1648536776993f720b": {
+      "type": "multicolumn-usp",
+      "disabled": true,
+      "blocks": {
+        "16485367763ee809cf-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/usp-icon-lette-sko.png",
+            "title": "",
+            "text": "<p><strong>Lette løpesko<\/strong> med god demping og chunky såle. Skoene kan styles og brukes som fritidssko med tights, jeans og shorts.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16485367763ee809cf-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Skoene har pustende mesh, myk støtte rundt anklene og hælen.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16485367763ee809cf-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Løpeskoene har en drop på 10mm og egner seg derfor godt til lange turer.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f720ec63-0d13-4867-bf97-af50a3a48a18": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Joggeskoene egner seg best på asfalt, betong, grus og tredemølle.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16485367763ee809cf-0",
+        "16485367763ee809cf-1",
+        "16485367763ee809cf-2",
+        "f720ec63-0d13-4867-bf97-af50a3a48a18"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_max": 112,
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "sizet": 16,
+        "size": 13,
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "inverse",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 20
+      }
+    },
     "164138293938171117": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/banner-endorphin-tekst-desktop.jpg",
         "image_m": "shopify:\/\/shop_images\/Endorphin-text-banner-mobil.jpg",
@@ -54,6 +123,7 @@
     },
     "1648212679a7ff31c4": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1648212679e9b6ef4c-0": {
           "type": "heading",
@@ -91,6 +161,7 @@
     },
     "1648449026db85fd09": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1648449025fb1d6f6a-0": {
           "type": "heading",
@@ -206,6 +277,7 @@
   },
   "order": [
     "1647875727c189611d",
+    "1648536776993f720b",
     "164138293938171117",
     "1648451986936597c8",
     "1648212679a7ff31c4",
