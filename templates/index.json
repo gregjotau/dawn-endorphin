@@ -3,8 +3,84 @@
     "1647875727c189611d": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Endorphin-rx1-banner-desktop.jpg",
-        "image_m": "shopify:\/\/shop_images\/Endorphin-rx1-banner-mobil.jpg",
+        "image": "shopify:\/\/shop_images\/endorphin-rx1-banner-desktop-1.jpg",
+        "image_m": "shopify:\/\/shop_images\/endorphin-rx1-banner-mobil-1.jpg",
+        "image_url": "shopify:\/\/products\/endorphin-rx1-shoes",
+        "image_overlay_opacity": 0,
+        "image2_url": "",
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1648540817b7c135c5": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/usp-banner-desktop-1.jpg",
+        "image_m": "shopify:\/\/shop_images\/usp-banner-mobil-1.jpg",
+        "image_url": "shopify:\/\/products\/endorphin-rx1-shoes",
+        "image_overlay_opacity": 0,
+        "image2_url": "",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1648541004cbc699d6": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/usp-banner-desktop-3.jpg",
+        "image_m": "shopify:\/\/shop_images\/usp-banner-mobil-3.jpg",
+        "image_url": "shopify:\/\/products\/endorphin-rx1-shoes",
+        "image_overlay_opacity": 0,
+        "image2_url": "",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1648540901f4a621ef": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/usp-banner-desktop-2.jpg",
+        "image_m": "shopify:\/\/shop_images\/usp-banner-mobil-2.jpg",
+        "image_url": "shopify:\/\/products\/endorphin-rx1-shoes",
+        "image_overlay_opacity": 0,
+        "image2_url": "",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1648541095f051508c": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/usp-banner-desktop-4.jpg",
+        "image_m": "shopify:\/\/shop_images\/usp-banner-mobil-4.jpg",
         "image_url": "shopify:\/\/products\/endorphin-rx1-shoes",
         "image_overlay_opacity": 0,
         "image2_url": "",
@@ -209,6 +285,10 @@
   },
   "order": [
     "1647875727c189611d",
+    "1648540817b7c135c5",
+    "1648541004cbc699d6",
+    "1648540901f4a621ef",
+    "1648541095f051508c",
     "164138293938171117",
     "1648451986936597c8",
     "1648212679a7ff31c4",
